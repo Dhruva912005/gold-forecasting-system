@@ -12,6 +12,7 @@ from update_data import update_dataset
 from train_model import train_and_save_models
 
 st.set_page_config(page_title="Gold AI Analytics Pro", layout="wide", initial_sidebar_state="expanded")
+st.write("✅ Deployment Sync Version: 2.1")
 
 # --- PROFESSIONAL ANALYTICS UI/UX ---
 st.markdown("""
