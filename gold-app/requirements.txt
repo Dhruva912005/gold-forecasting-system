@@ -1,0 +1,12 @@
+pandas
+numpy
+xgboost
+scikit-learn
+textblob
+streamlit
+yfinance
+feedparser
+python-dateutil
+pandas-market-calendars
+aiohttp
+plotly
